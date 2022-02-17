@@ -1,0 +1,24 @@
+{
+    "type": [
+        "jpg",
+        "jpeg",
+        "png",
+        "svg",
+        "gif",
+        "pdf",
+        "rtf",
+        "mp4",
+        "txt",
+        "csv",
+        "xlsx",
+        "xlsm",
+        "docx",
+        "docm",
+        "doc",
+        "odt",
+        "ppt",
+        "pptx",
+        "pptm",
+        "mp4"
+    ]
+}
